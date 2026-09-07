@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,http://cloudtvserviceplatinum.site:8080
+http://cloudtvserviceplatinum.site:8080/get.php?username=MartinT&password=q4yRAjHz37&type=m3u_plus&output=ts
