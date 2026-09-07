@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,http://23.153.217.158:8080
+http://23.153.217.158:8080/get.php?username=961242461tv&password=5x3r84x&type=m3u_plus&output=ts
