@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1,http://66.90.84.10
+http://66.90.84.10/get.php?username=07abc7749570f20d5987b62d29254ecc&password=3fd94522646b16ff2a0a&type=m3u_plus&output=ts
