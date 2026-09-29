@@ -1,0 +1,8 @@
+URL: http://planetaiks.info:8000
+User: UEFASPORTS
+Pass: GFmFVkd339RS
+Expires: 09/19/2027, 22:24
+Region: America/Tijuana
+
+-- Xtreamity
+https://play.google.com/store/apps/details?id=com.xtreamity
